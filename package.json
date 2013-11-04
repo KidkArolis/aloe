@@ -1,0 +1,37 @@
+{
+  "name": "aloe",
+  "version": "0.0.1",
+  "description": "npm in the browser",
+  "main": "index.js",
+  "dependencies": {
+    "browser-builtins": "~2.0.5",
+    "detect-amd": "~1.0.0",
+    "esprima": "~1.0.4",
+    "express": "~3.4.4",
+    "lodash": "~2.2.1",
+    "nopt": "~2.1.2",
+    "read-installed": "~0.2.4",
+    "xxhash": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KidkArolis/aloe.git"
+  },
+  "keywords": [
+    "npm",
+    "amd",
+    "commonjs",
+    "modules",
+    "browser",
+    "require"
+  ],
+  "author": "Karolis Narkevicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KidkArolis/aloe/issues"
+  }
+}
